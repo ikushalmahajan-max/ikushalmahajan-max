@@ -1,5 +1,5 @@
-<h1 align="center">Hi,I'm Kushal Mahajan</h1>
-<h3 align="center">I'm a dedicated Embedded Systems Engineer with a passion for bridging the gap between hardware and software. I thrive on designing, developing, and deploying robust, real-time firmware for low-power, resource-constrained devices.</h3>
+<h1 align="center">Hi😊, I'm Kushal </h1>
+<h3 align="center">I'm a dedicated Embedded Systems Engineer .</h3>
 
 Interested in contributing to open-source projects related to embedded security and device connectivity. [TITANS. Ai](https://resilient-wisp-a5ba9e.netlify.app/)
 
