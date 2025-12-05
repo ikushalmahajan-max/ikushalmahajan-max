@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kushal Mahajan</h1>
-<h3 align="center">A passionate embedded designer from India</h3>
+<h1 align="center">Hi,I'm Kushal Mahajan</h1>
+<h3 align="center">I'm a dedicated Embedded Systems Engineer with a passion for bridging the gap between hardware and software. I thrive on designing, developing, and deploying robust, real-time firmware for low-power, resource-constrained devices.</h3>
 
-- 🔭 I’m currently working on [TITANS. Ai](https://resilient-wisp-a5ba9e.netlify.app/)
+Interested in contributing to open-source projects related to embedded security and device connectivity. [TITANS. Ai](https://resilient-wisp-a5ba9e.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
