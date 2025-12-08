@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, <//h1>
-<h1 align="center"> I'm Kushal <//h1>
+<align="center"> I'm Kushal <//>
 <h3 align="center">A Passionate Embedded Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikushalmahajan-max&label=Profile%20views&color=0e75b6&style=flat" alt="ikushalmahajan-max" /> </p>
