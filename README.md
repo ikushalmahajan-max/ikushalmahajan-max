@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikushalmahajan-max&label=Profile%20views&color=0e75b6&style=flat" alt="ikushalmahajan-max" /> </p>
 
-- 🔭 I’m currently working on [TITANS. Ai](https://resilient-wisp-a5ba9e.netlify.app/)
-
+- 🔭 I’m currently working on [TITANS. Ai](
+https://titans-m-ax.vercel.app/google_login.html) 
 - 🌱 I’m currently exploring **Currently exploring advanced low-power optimization techniques for battery-operated IoT sensor nodes**
 
 - 📫 How to reach me **ikushalmahajan@gmail.com**
